@@ -2,7 +2,7 @@
   <!-- Puedes cambiar el GIF por otro que te guste -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" />
 
-  # [Christian Gallardo N]
+  # Christian Gallardo N
 
   Estudiante de Ingeniería en Informática y Ciberseguridad en INACAP<br>
   Formación en administración de sistemas, análisis de vulnerabilidades y automatización.<br>
