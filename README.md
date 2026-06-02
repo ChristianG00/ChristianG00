@@ -47,7 +47,7 @@
 ### 📫 Contacto
 
 <div align="center">
-  📧 <a href="mailto:christiangallardo.gb@gmail.com">christiangallardo.gb@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/christian-gallardo-956421273/">LinkedIn: Christian Gallardo</a><br>
-  🌐 <a href="#">Portafolio</a>
+  <a href="mailto:christiangallardo.gb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/christian-gallardo-956421273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio" /></a>
 </div>
