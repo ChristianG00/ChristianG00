@@ -3,7 +3,7 @@
 
   # Christian Gallardo N
 
-  Estudiante de Ingeniería en Informática y Ciberseguridad en INACAP<br>
+  Estudiante de Ingeniería en Informática y en INACAP<br>
   Formación en desarrollo Full Stack, soporte técnico, cloud y diseño de sistemas.<br>
   Apasionado por la tecnología, el desarrollo seguro y el aprendizaje continuo.
 </div>
