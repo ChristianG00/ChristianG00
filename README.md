@@ -1,4 +1,4 @@
-# Hola, soy Christian 👋
+# Christian Gallardo N 👋
 
 ### Futuro Ingeniero en Informática y Ciberseguridad 🛡️💻
 
